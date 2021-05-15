@@ -1,3 +1,13 @@
+# Simple video browser. 
+
+# Using technologies:
+
+React
+CSS (grid)
+semantic UI
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
