@@ -2,9 +2,9 @@
 
 # Using technologies:
 
-React
-CSS (grid)
-semantic UI
+ - React,
+ - CSS (grid),
+ - Semantic UI.
 
 
 
